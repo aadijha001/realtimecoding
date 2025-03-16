@@ -1,0 +1,42 @@
+.messageMain {
+    height: 100%;
+    /* width: 40%; */
+    align-items: center;
+}
+
+.messageHeading {
+    text-align: center;
+    color: black;
+}
+
+.messageSmall {
+    color: gray;
+}
+
+.messageHeader {
+    color: darkgray;
+    /* position: fixed; */
+}
+
+.messageAll {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    /* position: fixed; */
+}
+
+.messageMiddle {
+    height: 86vh;
+    /* position: relative; */
+    overflow: auto;
+}
+
+.messageSendButton {
+    background-color: cornflowerblue;
+    /* position: fixed; */
+    
+}
+
+.messageCloud {
+    margin: 10px 10px;
+}

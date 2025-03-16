@@ -1,0 +1,20 @@
+.codepart {
+    width: 60%;
+    height: 100vh;
+    overflow: auto;
+}
+
+.two {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.messagePart {
+    
+    align-items: center;
+    min-width: 40%;
+    height: 100%;
+}
